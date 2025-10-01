@@ -43,8 +43,7 @@ Notebook `notebooks/sentiment_id_no_tuning.ipynb` terdiri dari:
      ![Logistic Regression Report](results/regression.png)  
 6. **Evaluasi Lanjutan & Visualisasi**  
    - Akurasi & F1-score  
-   - Confusion Matrix Naive Bayes  
-   - Confusion Matrix Logistic Regression  
+     
    - **Best Model Result (Logistic Regression):**
      
      ![Best Model Confusion Matrix](results/best_model.png)
@@ -53,12 +52,7 @@ Notebook `notebooks/sentiment_id_no_tuning.ipynb` terdiri dari:
 
 ## 📊 Visualisasi
 
-### Confusion Matrix (Default)
-Naive Bayes:  
-![Confusion Matrix NB](results/naive_bayes.png)  
-
-Logistic Regression:  
-![Confusion Matrix LR](results/regression.png)  
+  
 
 ### Distribusi Label
 Tambahkan visualisasi distribusi sentimen:  
@@ -96,11 +90,5 @@ Hasil grafik bisa diekspor sebagai `results/sentiment_distribution.png` dan dita
 - Bisa ditingkatkan dengan **GridSearchCV**, **SVM**, atau **Transformer models (IndoBERT)**.  
 
 ---
-
-## 📝 Lisensi
-Proyek ini dirilis dengan lisensi MIT. Silakan gunakan dan kembangkan lebih lanjut.  
-=======
-"# AFI Projects"
-
 
 >>>>>>> f6cf1fe8ac9eba15c5e3af39115d788f3f6dda82
