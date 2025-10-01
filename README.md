@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sentiment Analysis (Bahasa Indonesia)
 
 Proyek ini melakukan **analisis sentimen tweet berbahasa Indonesia** menggunakan dua algoritma Machine Learning:  
@@ -97,3 +98,8 @@ Hasil grafik bisa diekspor sebagai `results/sentiment_distribution.png` dan dita
 
 ## 📝 Lisensi
 Proyek ini dirilis dengan lisensi MIT. Silakan gunakan dan kembangkan lebih lanjut.  
+=======
+"# AFI Projects"
+
+
+>>>>>>> f6cf1fe8ac9eba15c5e3af39115d788f3f6dda82
