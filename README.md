@@ -64,7 +64,7 @@ Notebook `notebooks/sentiment_id_no_tuning.ipynb` terdiri dari:
 ## 🚀 Cara Menjalankan
 1. Clone repo:
    ```bash
-   git clone https://github.com/USERNAME/sentiment-analysis-id.git
+   git clone https://github.com/moonandart/sentiment-analysis-id.git
    cd sentiment-analysis-id
    ```
 2. Jalankan notebook `notebooks/sentiment_id_no_tuning.ipynb` di Jupyter/Colab.  
