@@ -52,9 +52,7 @@ Notebook `notebooks/sentiment_id_no_tuning.ipynb` terdiri dari:
 
 ## 📊 Visualisasi
 
-  
-
-### Distribusi Label
+  ### Distribusi Label
 
 
 ![Distribusi Sentimen](results/distribution.png)  
