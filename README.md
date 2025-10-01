@@ -55,10 +55,10 @@ Notebook `notebooks/sentiment_id_no_tuning.ipynb` terdiri dari:
 
 ### Confusion Matrix (Default)
 Naive Bayes:  
-![Confusion Matrix NB](results/confusion_nb.png)  
+![Confusion Matrix NB](results/naive_bayes.png)  
 
 Logistic Regression:  
-![Confusion Matrix LR](results/confusion_lr.png)  
+![Confusion Matrix LR](results/regression.png)  
 
 ### Distribusi Label
 Tambahkan visualisasi distribusi sentimen:  
