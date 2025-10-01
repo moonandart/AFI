@@ -45,7 +45,8 @@ Notebook `notebooks/sentiment_id_no_tuning.ipynb` terdiri dari:
    - Akurasi & F1-score  
    - Confusion Matrix Naive Bayes  
    - Confusion Matrix Logistic Regression  
-   - **Best Model Result (Logistic Regression):**  
+   - **Best Model Result (Logistic Regression):**
+     
      ![Best Model Confusion Matrix](results/best_model.png)
 
 ---
