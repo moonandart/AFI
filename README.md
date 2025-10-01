@@ -55,22 +55,9 @@ Notebook `notebooks/sentiment_id_no_tuning.ipynb` terdiri dari:
   
 
 ### Distribusi Label
-Tambahkan visualisasi distribusi sentimen:  
 
-```python
-import matplotlib.pyplot as plt
 
-df['sentimen'].value_counts().plot(kind='bar', color=['green','red','gray'])
-plt.title("Distribusi Sentimen")
-plt.xlabel("Kategori")
-plt.ylabel("Jumlah")
-plt.savefig("results/sentiment_distribution.png")
-plt.show()
-```
-
-Hasil grafik bisa diekspor sebagai `results/sentiment_distribution.png` dan ditampilkan di README:  
-
-![Distribusi Sentimen](results/sentiment_distribution.png)  
+![Distribusi Sentimen](results/distribution.png)  
 
 ---
 
